@@ -71,3 +71,10 @@ Agent 설계, 파인튜닝, RAG, 평가 체계 구축까지 LLM 서비스 전 �
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=wlsrb9564&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wlsrb9564&layout=compact&theme=tokyonight&langs_count=8"/>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/wlsrb9564/wlsrb9564/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation"
+    src="https://raw.githubusercontent.com/wlsrb9564/wlsrb9564/output/github-contribution-grid-snake.svg" />
+</picture>

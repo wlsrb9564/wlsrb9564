@@ -1,74 +1,46 @@
-<!--
-  ┌─────────────────────────────────────────────────────────┐
-  │  사용법                                                    │
-  │  1. 깃헙에서 "본인아이디"와 똑같은 이름의 레포 생성 (Public) │
-  │  2. 이 파일을 그 레포의 README.md 로 올리기                 │
-  │  3. 아래 << >> 표시된 부분을 본인 정보로 교체               │
-  └─────────────────────────────────────────────────────────┘
--->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:6366f1,100:08b5cf&height=180&text=Welcome%20to%20my%20profile&animation=fadeIn&fontColor=ffffff&fontSize=70" />
+</div>
 
-<h1 align="center">안녕하세요, <<이름>>입니다 👋</h1>
+<h2 style="border-bottom: 1px solid #21262d;"> 👋 About Me </h2>
 
-<p align="center">
-  데이터와 AI로 문제를 푸는 걸 좋아합니다.
-</p>
+LLM 기반 AI 시스템 개발에 특화된 개발자입니다.<br>
+Agent 설계, 파인튜닝, RAG, 평가 체계 구축까지 LLM 서비스 전 과정을 직접 구현해왔습니다.
 
-<p align="center">
-  <a href="mailto:<<이메일주소>>"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="<<블로그/포트폴리오 링크>>"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=githubpages&logoColor=white"/></a>
-  <a href="<<링크드인 링크>>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-</p>
+- 🔭 현재: LangGraph 기반 도메인 특화 AI 어드바이저 시스템 개발
+- 🌱 관심사: LLM Agent · Fine-tuning(LoRA, SFT) · RAG · 데이터 파이프라인
+- 📊 데이터 수집·자동화부터 모델 개발까지, 낯선 도메인도 빠르게 AI 서비스로 연결합니다
+- 📫 sw3558@naver.com
 
----
+<h2 style="border-bottom: 1px solid #21262d;"> 🛠️ Tech Stacks </h2>
 
-### 🧑‍💻 About Me
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=HuggingFace&logoColor=black">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
+</div>
 
-- 🔭 지금은 **<<현재 작업 중인 프로젝트나 관심 주제>>** 를 다루고 있어요
-- 🌱 요즘 배우는 중: **<<공부 중인 기술 / 분야>>**
-- 💬 이런 주제로 이야기 나누는 거 좋아해요: **<<관심 분야>>**
+<h2 style="border-bottom: 1px solid #21262d;"> 🧑‍💻 Contact me </h2>
 
----
+<div align="center">
+  <a href="https://www.notion.so/PORTFOLIO-0aaf3a4627b94135bd4525fae3e9fce3">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+  </a>
+  <a href="mailto:sw3558@naver.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+  </a>
+</div>
 
-### 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-**ML / Data**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Tools**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<!-- 안 쓰는 배지는 지우고, 필요한 건 https://shields.io 또는 https://simpleicons.org 에서 찾아서 추가하세요 -->
-
----
-
-### 📊 GitHub Stats
+<h2 style="border-bottom: 1px solid #21262d;"> 📊 GitHub Stats </h2>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=wlsrb9564&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wlsrb9564&layout=compact&theme=tokyonight&langs_count=8"/>
 </p>
-
-<!-- theme 옵션: tokyonight, radical, dracula, gruvbox, default 등. 마음에 드는 걸로 바꾸세요 -->
-
----
-
-### 📌 Featured Projects
-
-| 프로젝트 | 설명 | 기술 |
-|---|---|---|
-| [<<프로젝트1 이름>>](<<링크>>) | <<한 줄 설명>> | `Python` `PyTorch` |
-| [<<프로젝트2 이름>>](<<링크>>) | <<한 줄 설명>> | `Pandas` `SQL` |

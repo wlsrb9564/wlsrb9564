@@ -58,8 +58,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=<<깃헙아이디>>&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<<깃헙아이디>>&layout=compact&theme=tokyonight&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=<<wlsrb9564>>&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<<wlsrb9564>>&layout=compact&theme=tokyonight&langs_count=8"/>
 </p>
 
 <!-- theme 옵션: tokyonight, radical, dracula, gruvbox, default 등. 마음에 드는 걸로 바꾸세요 -->

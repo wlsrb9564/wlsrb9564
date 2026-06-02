@@ -1,3 +1,5 @@
+[![Generate GitHub Stats](https://github.com/wlsrb9564/wlsrb9564/actions/workflows/stats.yml/badge.svg)](https://github.com/wlsrb9564/wlsrb9564/actions/workflows/stats.yml)
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:6366f1,100:08b5cf&height=180&text=Welcome%20to%20my%20profile&animation=fadeIn&fontColor=ffffff&fontSize=70" />
 </div>
